@@ -28,6 +28,7 @@ pip install -r requirements.txt
 If you have done clone this repo, the repo structure should be like this:
 
 ```bash
+root:.
 ├──myenv
 ├──.gitignore
 ├──main.py
