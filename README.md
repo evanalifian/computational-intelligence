@@ -2,7 +2,7 @@
 
 ![Python cover image](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcbn5xowxuwsdqumf02lm.png)
 
-This is a repo where i learn computational intelligence for educational purpose. I create this repo to store any my python codes from my collage class (Kecerdasan Komputasional).
+This is a repo where i learn computational intelligence for educational purpose. I create this repo to store any my python codes from my collage class (Kecerdasan Komputasional). And mostly, i use bahasa for documentation in README.pd
 
 ## Clone Repo
 
